@@ -72,7 +72,7 @@ Typical installation procedure may look like this:
     $ psql DB -c "CREATE EXTENSION pg_wait_sampling;"
 
 Compilation on Windows is not supported, since the extension uses symbols from PostgreSQL
-that are not exported.
+that are not exported.Try to solve this problem.--Add by lin of highgo.
 
 Usage
 -----
