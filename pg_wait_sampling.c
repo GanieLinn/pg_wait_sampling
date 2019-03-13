@@ -33,6 +33,7 @@ PG_MODULE_MAGIC;
 
 void		_PG_init(void);
 void		_PG_fini(void);
+/* just a test for contribution */
 
 /* Global variables */
 bool					shmem_initialized = false;
